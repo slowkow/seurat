@@ -17,6 +17,7 @@ Authors@R: c(
 URL: http://www.satijalab.org/seurat, https://github.com/satijalab/seurat
 BugReports: https://github.com/satijalab/seurat/issues
 Additional_repositories: https://mojaveazure.github.io/loomR
+biocViews:
 Depends:
     R (>= 3.4.0),
     methods,
